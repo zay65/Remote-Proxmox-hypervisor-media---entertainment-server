@@ -1,5 +1,5 @@
 # Remote-Proxmox-hypervisor-media-entertainment-server
-Repo where I install/configure and manage Proxmox to house a linux-based server that hosts a Network Attached Storage (NAS) where I can store and share files/pictures with Samba, watch owned movies/shows I upload, with Jellyfin, and manage an active directory server and various clients in windows virtual machines from anywhere in the world using SSH and Tailscale. 
+Designed and managed a remote Proxmox-based homelab environment featuring Linux and Windows virtualized infrastructure, NAS file sharing (Samba), media streaming (Jellyfin), secure remote access (Tailscale/SSH), and enterprise-style Active Directory administration.
 
 <h2> Initial install and config process </h2>
 
